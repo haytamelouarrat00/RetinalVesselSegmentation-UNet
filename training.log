@@ -1,0 +1,25 @@
+2024-11-16 17:16:38,023 - INFO - Using device: cuda
+2024-11-16 17:16:38,024 - ERROR - An error occurred: Number of images and masks do not match
+2024-11-16 17:20:12,168 - INFO - Using device: cuda
+2024-11-16 17:20:12,168 - ERROR - An error occurred: Number of images and masks do not match
+2024-11-16 17:20:24,396 - INFO - Using device: cuda
+2024-11-16 17:20:24,396 - ERROR - An error occurred: Number of images and masks do not match
+2024-11-16 17:20:45,372 - INFO - Using device: cuda
+2024-11-16 17:20:45,372 - ERROR - An error occurred: Number of images and masks do not match
+2024-11-16 17:20:49,923 - INFO - Using device: cuda
+2024-11-16 17:20:49,924 - ERROR - An error occurred: Number of images and masks do not match
+2024-11-16 17:21:17,091 - INFO - Using device: cuda
+2024-11-16 17:21:17,091 - ERROR - An error occurred: Number of images and masks do not match
+2024-11-16 17:25:30,972 - INFO - Using device: cuda
+2024-11-16 17:25:30,973 - ERROR - An error occurred: Number of images and masks do not match
+2024-11-16 17:26:54,628 - INFO - Using device: cuda
+2024-11-16 17:26:54,628 - ERROR - An error occurred: Number of images and masks do not match
+2024-11-16 17:32:07,694 - INFO - Using device: cuda
+2024-11-16 17:32:07,704 - ERROR - An error occurred: Sum of input lengths does not equal the length of the input dataset!
+2024-11-16 17:34:57,211 - INFO - Using device: cuda
+2024-11-16 17:35:37,349 - INFO - Using device: cuda
+2024-11-16 17:36:03,474 - INFO - Using device: cuda
+2024-11-16 17:36:31,977 - INFO - Using device: cuda
+2024-11-16 17:41:39,763 - INFO - Model saved at C:\Users\haytam\Documents\medAnalysis\unet_model.pth
+2024-11-16 17:41:39,966 - INFO - Test Loss: 0.1436
+2024-11-16 17:41:39,966 - INFO - Test DICE: 0.9914
